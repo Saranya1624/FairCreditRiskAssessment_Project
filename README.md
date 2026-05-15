@@ -147,7 +147,7 @@ Binary White / Non-White encoding masked a sharper disparity entirely.
 If you use this work, please cite:
 
 ```
-Verma, N., Attaluri, S., & Vishwanath, N. K. (2026). The Fairness Paradox: Fair Credit Risk
+Neelima Verma , Saranya Attaluri , & Nithish Kumar Vishwanath (2026). The Fairness Paradox: Fair Credit Risk
 Assessment for Underserved Populations Using Machine Learning. Capstone Project,
 MS Data Science, Pace University, Seidenberg School of Computer Science and Information Systems.
 Faculty Advisor: Prof. Hetali Chavda.
